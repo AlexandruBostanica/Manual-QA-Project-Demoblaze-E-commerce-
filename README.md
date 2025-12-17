@@ -1,4 +1,4 @@
-# Demoblaze – Manual QA Project (Mid–Senior Level)
+# Demoblaze – Manual QA Project
 
 ## 1. Project Overview
 
@@ -151,3 +151,4 @@ This project is designed to reflect how a **QA engineer** approaches manual test
 * Strong documentation and communication
 
 The structure and content of this repository are intentionally kept stable throughout the project lifecycle to reflect disciplined QA practices.
+
