@@ -6,12 +6,6 @@ This repository contains a **manual QA testing project** for the *Demoblaze* dem
 
 The purpose of this project is not to exhaustively test every feature, but to demonstrate a **professional QA mindset**: prioritization, structured documentation, clear communication, and decision-making based on risk and business impact.
 
-Target audience:
-
-* QA Leads / Hiring Managers
-* Recruiters evaluating mid–senior QA profiles
-* QA Engineers looking for a realistic reference project
-
 ---
 
 ## 2. Application Under Test (AUT)
@@ -40,8 +34,6 @@ The main objectives of this testing effort are:
 * Identify **functional, usability, and data integrity issues**
 * Assess **risk areas** such as cart persistence and checkout behavior
 * Provide clear and actionable **bug reports and test documentation**
-
-This project intentionally prioritizes **quality over quantity**.
 
 ---
 
@@ -151,4 +143,5 @@ This project is designed to reflect how a **QA engineer** approaches manual test
 * Strong documentation and communication
 
 The structure and content of this repository are intentionally kept stable throughout the project lifecycle to reflect disciplined QA practices.
+
 
